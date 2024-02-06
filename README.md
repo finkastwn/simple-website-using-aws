@@ -1,4 +1,4 @@
-How to deploy this website to AWS Management Console.
+## How to deploy this website to AWS Management Console.
 
 1. Clone this repository
    ```git clone https://github.com/finkastwn/simple-website-using-aws.git```
